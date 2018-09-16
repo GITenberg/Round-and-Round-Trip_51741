@@ -1,5 +1,5 @@
 _repo: Round-and-Round-Trip_51741
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wood, Wallace
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '32276'
     url: http://www.gutenberg.org/2009/agents/32276
     wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+covers:
+- cover_type: archival
+  image_path: 51741-h/images/cover.jpg
 creator:
   author:
     agent_name: Fyfe, H. B. (Horace Bowne)
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '25276'
     url: http://www.gutenberg.org/2009/agents/25276
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51741#Round-and-Round-Trip
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-12'
 gutenberg_type: Text
